@@ -1,0 +1,8 @@
+//FOR LOOP
+
+//Write a JS program which prints 100...1
+
+for(let i = 100; i>0; i--)
+{
+  console.log(i);
+}

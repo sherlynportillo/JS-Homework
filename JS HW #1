@@ -1,0 +1,10 @@
+//FOR LOOP
+
+// Write a JS program to find even or ODD numbers from 1 to 1000.
+
+for(let num=1; num <=1000; num++)
+{
+  if(num%2 == 0)
+{
+  console.log(¨The even number is:¨+ num);
+}
